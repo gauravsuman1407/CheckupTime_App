@@ -1,0 +1,5 @@
+doctor_name,specialty_en,specialty_hi,city,phone,notes_en,notes_hi
+Dr. A. K. Sharma, General Physician,सामान्य चिकित्सक,Kota,9876543210,"Available 24/7 for emergencies","आपात स्थिति के लिए 24/7 उपलब्ध"
+Dr. Sunita Verma,Cardiologist,हृदय रोग विशेषज्ञ,Jaipur,9871234567,"Specializes in heart-related issues","हृदय संबंधी मामलों के विशेषज्ञ"
+Dr. R. Singh,Pediatrician,बच्चों का चिकित्सक,Kota,9988776655,"Expert in child health","बाल स्वास्थ्य में विशेषज्ञ"
+Dr. Priya Gupta,Dermatologist,त्वचा विशेषज्ञ,Udaipur,9123456789,"For skin and hair problems","त्वचा और बालों की समस्याओं के लिए"
