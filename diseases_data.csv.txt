@@ -1,0 +1,13 @@
+disease,symptom1,symptom2,symptom3,symptom4,symptom5,language
+बुखार,बुखार,खाँसी,सिरदर्द,कमजोरी,बदन दर्द,हिंदी
+सामान्य सर्दी,खाँसी,गले में खराश,नाक बहना,छींक आना,बुखार,हिंदी
+माइग्रेन,सिरदर्द,उल्टी,प्रकाश संवेदनशीलता,गर्दन में दर्द,थकान,हिंदी
+डेंगू,बुखार,मांसपेशियों में दर्द,जोड़ों में दर्द,त्वचा पर लाल चकत्ते,आँखों के पीछे दर्द,हिंदी
+मलेरिया,बुखार,ठंड लगना,पसीना आना,सिरदर्द,उल्टी,हिंदी
+टाइफाइड,तेज बुखार,पेट दर्द,कमजोरी,भूख न लगना,कब्ज,हिंदी
+Fever,fever,cough,headache,weakness,body aches,English
+Common Cold,cough,sore throat,runny nose,sneezing,fever,English
+Migraine,headache,vomiting,light sensitivity,neck pain,fatigue,English
+Dengue,fever,muscle pain,joint pain,skin rash,pain behind eyes,English
+Malaria,fever,chills,sweating,headache,vomiting,English
+Typhoid,high fever,abdominal pain,weakness,loss of appetite,constipation,English
